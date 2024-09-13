@@ -1,0 +1,10 @@
+Incomplete app to display statistics about spotify playlists
+
+Goals:
+1. Do profile display tutorial - Complete
+2. Display user playlists - Complete
+3. Display songs in each playlist - In progress
+4. Aggregate songs into different categories(genre, artist, etc...)
+5. Display statistics and offer recommendations
+6. Stylize page
+7. Put app online
